@@ -1,0 +1,1 @@
+ ProTip! Use the URL for this page when adding GitHub as a remote.
